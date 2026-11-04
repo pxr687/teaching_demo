@@ -1,4 +1,4 @@
-# Teaching Demo
+# Computer Science Teaching Demonstration
 
 Please go to this link: https://pxr687.github.io/teaching_demo/
 
